@@ -1,2 +1,2 @@
-# Expeiriental
+# Experimental
 Just me messing around
